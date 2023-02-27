@@ -9,4 +9,12 @@ Rossman sales Prediction data is a dataset that include ancient income facts for
 
 
 
+
+
+
+
+Then further on, the usage of feature engineering and facts preprocessing we have extracted features like PromoDuration and CompetitionDuration that helped us to get rid of some 4 capabilities that aren't without delay impacting our income. We additionally tried to get a few impacting capabilities via eliminating multicollinearity by lowering the diverse inflation aspect(VIF) of the unbiased variables.
+
+
+
 Universal, whilst constructing a machine getting to know model on Rossman income Prediction statistics we carried out combination of facts processing, device getting to know techniques, and version assessment competencies. It turned into a difficult undertaking and I have faced a few screw ups as well however with the proper method and knowledge,I was capable of create a model which can correctly are expecting sales upcomings weeks in advance.
