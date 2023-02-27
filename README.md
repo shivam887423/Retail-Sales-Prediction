@@ -1,1 +1,2 @@
 # CAPSTONE-2
+Rossman sales Prediction data is a dataset that include ancient income facts for a retail save chain. The information consists of facts approximately the store, which includes Competitior’s element, type, vacation’s, as well as number of the customers and income transaction, which includes the date, time, and quantity of sale on each day.![download (9)](https://user-images.githubusercontent.com/119883273/221606906-0adb64ce-9b03-432a-8d7c-cc5edcb22cb7.png)
