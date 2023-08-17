@@ -118,7 +118,40 @@ Box Plot.
 
 # Graphs
 
-![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/48e48abf-1354-429e-b3fa-880c87bca58c)
+## Univirate Analysis
+
+**Sales vs Day of the week**
+
+![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/e4be0b80-c840-4c3d-ae32-94e9841d33ea)
+
+
+**Histogram of Sales in Rossmann Retail Dataset**
+
+![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/915484fe-6446-4c09-8e03-7db66059c43e)
+
+## Bivirate Analysis
+
+ **Scatter plot of Sales vs. Customers**
+
+ ![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/47bec4ec-0170-4742-9120-d3b844378db3)
+
+ **Barplot for Sales vs Promo2sinceYear**
+
+ ![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/e6d256c5-0385-4275-857c-b54b95b731e8)
+
+ ## Multivirate Analysis
+
+** Sales" and "CompetitionOpenSinceMonth**
+
+ ![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/22671833-9e6e-4a7a-b518-cd6036db7801)
+
+ ** Top 5 columns that are correlated with Sales **
+
+ ![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/92059333-3289-4cd4-84e4-801e70fcc4ae)
+
+
+
+
 
 
 
