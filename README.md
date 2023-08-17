@@ -60,5 +60,46 @@ The dataset conatains general information of each store.
 - **Total number of rows in data : 1115**
   
 - **Total number of columns : 10**
-  
+
+ # Data Cleaning and Feature Engineering
+**(1) Removing Duplicate rows**
+
+No duplicate rows were present in dataset.
+
+**(2) Handling null values**
+No null values were present in Rossmann dataset.
+
+Null values were present in sales dataset.
+
+To remove null values in sales dataset I have imputed them with mode of the respective column.
+
+**(3) Converting columns to appropriate data types**
+
+Changed datatype of Date to date type.
+
+**(5) Creating new columns**
+
+Created new columns Day,Week and Month from date column.
+
+**(6) Feature encoding**
+
+Used One hot encoding to transform categorical feature - StoreType, Assortment, PromoInterval.
+
+Used Label encoding to transform categorical features - StateHoliday.
+
+**(7) Handling skewness**
+
+Used square root transformation and logarithmic transformation to reduce skewness of skewed features.
+
+**(8) Removing outliers**
+
+Checked for outliers in sales column using IQR method and dropped them.
+
+**(8) Standardization of features**
+
+Used Min-Max Scaler for normalization of features.This step scales data into a uniform format that would utilize the data in a better way while performing fitting and applying different algorithms to it.
+
+# Exploratory Data Analysis
+
+
 
