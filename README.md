@@ -16,3 +16,6 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 We will focus our Data Science project on the delivery of a robust statistical model, which is able to accurately predict a 6-week sales performance of Rossmann’s drugstores based on historical data By running through the data science process we will be able to answer the following research questions:
 
 To what extend is sales performance influenced by factors like: promotions, competition, school and state holidays, seasonality, and locality. What is an appropriate model to predict sales?
+
+# Approach
+Our approach follows the generic Data Science process. As we just did in the parts above, the process starts with asking an interesting question. With the case of Rossmann we have identified a case, which is interesting for us because the underlying issue of sales prediction is relevant for all kinds of businesses, too. The second step is to get the data. Then, we will explore our data, which is the usual step to take after obtaining data. We will show plots to illustrate properties, trends, anomalies and patterns of the data. After ploting the first results, we will apply different statistical models and compare them to choose the most performing one. Finally, we will answer our initial questions and discuss future research directions.
