@@ -100,6 +100,27 @@ Checked for outliers in sales column using IQR method and dropped them.
 Used Min-Max Scaler for normalization of features.This step scales data into a uniform format that would utilize the data in a better way while performing fitting and applying different algorithms to it.
 
 # Exploratory Data Analysis
+Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
+
+Bar Plot.
+
+Histogram.
+
+Scatter Plot.
+
+Pie Chart.
+
+Line Plot.
+
+Heatmap.
+
+Box Plot.
+
+# Graphs
+
+![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/48e48abf-1354-429e-b3fa-880c87bca58c)
+
+
 
 
 
