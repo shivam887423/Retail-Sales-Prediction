@@ -141,11 +141,11 @@ Box Plot.
 
  ## Multivirate Analysis
 
-** Sales" and "CompetitionOpenSinceMonth**
+**Sales" and "CompetitionOpenSinceMonth**
 
  ![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/22671833-9e6e-4a7a-b518-cd6036db7801)
 
- ** Top 5 columns that are correlated with Sales **
+ **Top 5 columns that are correlated with Sales**
 
  ![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/92059333-3289-4cd4-84e4-801e70fcc4ae)
 
