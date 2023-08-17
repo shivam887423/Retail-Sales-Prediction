@@ -149,8 +149,39 @@ Box Plot.
 
  ![image](https://github.com/shivam887423/CAPSTONE-2/assets/119883273/92059333-3289-4cd4-84e4-801e70fcc4ae)
 
+# Model Building
+
+Since we have to predict the sales of the stores, so this is a regression problem. Based on the problem statement I decided to develop predictive models using following algorithms and have compared there performance.
 
 
+- Random Forest
+  
+- Linear Regression
+  
+- Lasso
+  
+- Ridge
+  
+- Elastic Net
+
+
+Following necessary steps have been employed for better model performance.
+
+                (i)   train test split for model evaluation.
+                
+                (ii)  Hyperparameter tuning for best learning parameters that developed a better model. Hyperparameter tuning was done with the help
+                      of GridSearchCV.
+
+#  Evaluation metrics
+**To evaluate the models I have used adjusted R2-Score.**
+
+# Conclusion
+
+                 (i)   Random forest performed best as compared to other models with
+                         adjusted R2-Score for test dataset = 0.93
+                         
+                 (ii)  Linear Regression also performed fairly well.
+                         adjusted R2-Score for test dataset = 0.87
 
 
 
